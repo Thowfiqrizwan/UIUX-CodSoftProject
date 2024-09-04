@@ -1,1 +1,1 @@
-# ui-ux-codsoft-project
+# UX/UI CodSoft Project
